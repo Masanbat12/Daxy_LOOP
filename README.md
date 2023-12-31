@@ -13,6 +13,10 @@ The parallel processing is achieved through the OpenMP API.
 ## pictures of results:
 <img width="600" alt="Screenshot 2023-12-31 204003" src="https://github.com/Masanbat12/Daxy_LOOP/assets/93978448/62c0d267-19bd-4c13-990d-e26d47cda43b">
 
+## Run:
+- make
+- ./daxy_loop
+
 
 ## Requirements
 - C++ Compiler (e.g., GCC)
