@@ -1,6 +1,6 @@
 # Daxy_LOOP_Code:
 
-## Overview
+### Overview
 This project implements the Double Precision A·X Plus Y (DAXPY) operation,
 a common routine in linear algebra, using both serial and parallel processing methods.
 The parallel processing is achieved through the OpenMP API.
