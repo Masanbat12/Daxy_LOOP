@@ -11,7 +11,7 @@ The parallel processing is achieved through the OpenMP API.
 - Performance comparison between serial and parallel executions.
 
 ## pictures of results:
-<img width="600" alt="Screenshot 2023-12-31 204003" src="https://github.com/Masanbat12/Daxy_LOOP/assets/93978448/62c0d267-19bd-4c13-990d-e26d47cda43b">
+<img width="450" alt="Screenshot 2023-12-31 204003" src="https://github.com/Masanbat12/Daxy_LOOP/assets/93978448/62c0d267-19bd-4c13-990d-e26d47cda43b">
 
 ## Run:
 - make
